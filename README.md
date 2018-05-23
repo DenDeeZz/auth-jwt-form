@@ -2,9 +2,9 @@
 
 **Installation & start**
 ---
-`npm install`
-`nodemon server`
+> npm install
+> nodemon server
 ---
 ###### /client
-`npm install`
-`npm start`
+> npm install
+> npm start
