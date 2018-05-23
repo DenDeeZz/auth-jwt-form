@@ -2,9 +2,8 @@
 
 **Installation & start**
 ---
-> npm install
-> nodemon server
----
-###### /client
-> npm install
-> npm start
+* npm install
+* nodemon server
+###/client/
+* npm install
+* npm start
