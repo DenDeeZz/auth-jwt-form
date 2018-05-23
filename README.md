@@ -4,6 +4,6 @@
 ---
 * npm install
 * nodemon server
-###/client/
+### /client/
 * npm install
 * npm start
